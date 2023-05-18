@@ -17,6 +17,9 @@ pageEncoding="ISO-8859-1"%>
 				Viejos recuerdos
 			</tr>
 			<tr>
+				New counts
+			</tr>
+			<tr>
 				<td><a href="conductor?opcion=listar"> Listar conductor</a></td>
 			</tr>
 		</table>
