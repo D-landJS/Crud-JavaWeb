@@ -20,6 +20,9 @@ pageEncoding="ISO-8859-1"%>
 				New counts
 			</tr>
 			<tr>
+				hola
+			</tr>
+			<tr>
 				sau
 			</tr>
 			<tr>
